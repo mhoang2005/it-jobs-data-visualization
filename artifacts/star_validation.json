@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "fact_rows": 3469,
+  "bridge_rows": 18925,
+  "core_vs_star": "all common columns identical",
+  "idempotent_import": "passed",
+  "foreign_keys": "passed",
+  "integrity": "ok",
+  "grain": "posting per dataset version"
+}

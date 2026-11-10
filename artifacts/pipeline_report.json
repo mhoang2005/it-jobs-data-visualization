@@ -1,0 +1,11 @@
+{
+  "status": "imported",
+  "version_id": "ed28b9181a08d53d2625ee291e28cd9f64b08d21fb561358d5ce68788ae9a5d3",
+  "input_sha256": "64bee64c2a53ba2298b2d47063539b004346b2f21599d157fc0cedcb12a592fb",
+  "rules": "1.0.0",
+  "input_rows": 3469,
+  "postings": 3469,
+  "issues": 5433,
+  "duplicate_candidate_pairs": 18,
+  "auto_merged_pairs": 0
+}
