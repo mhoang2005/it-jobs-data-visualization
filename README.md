@@ -50,11 +50,7 @@ Chạy watcher ở cửa sổ riêng khi cần; thay file input bằng **snapsho
 
 Xem `docs/VALIDATION.md` để biết các kiểm tra đã chạy và phần chưa xác nhận.
 
-## Nguồn và ghi nhận
 
-Kế thừa [SonPhatTranDeveloper/vietnam-it-job-trends](https://github.com/SonPhatTranDeveloper/vietnam-it-job-trends), commit `ad40de27b52f2f222c703e5b55f375d53f46d814`. Dataset đầu vào đã qua pipeline của tác giả. Không nhận các bước cào/AI là thực nghiệm đã chạy của bài này. Bản nguồn được giữ để trình bày cách thu thập.
-
-Phần bổ sung: kiểm tra chất lượng, chuẩn hóa lương/ngày/kỹ năng bảo thủ, tìm cặp nghi trùng, CSDL theo 3NF, lớp truy vấn, chỉ số, notebook và dashboard. Đơn vị đếm là **tin đăng**, không phải việc làm duy nhất. Lương quảng cáo không phải lương thực nhận. Các nhãn AI kế thừa chưa được kiểm chứng thủ công.
 
 
 ## Cập nhật: lớp Star Schema
